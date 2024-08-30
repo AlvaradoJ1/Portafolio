@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Notas\Notas\bin\Debug\netcoreapp3.1\Notas.exe
+C:\Users\USER\source\repos\Notas\Notas\bin\Debug\netcoreapp3.1\Notas.deps.json
+C:\Users\USER\source\repos\Notas\Notas\bin\Debug\netcoreapp3.1\Notas.runtimeconfig.json
+C:\Users\USER\source\repos\Notas\Notas\bin\Debug\netcoreapp3.1\Notas.runtimeconfig.dev.json
+C:\Users\USER\source\repos\Notas\Notas\bin\Debug\netcoreapp3.1\Notas.dll
+C:\Users\USER\source\repos\Notas\Notas\bin\Debug\netcoreapp3.1\Notas.pdb
+C:\Users\USER\source\repos\Notas\Notas\obj\Debug\netcoreapp3.1\Notas.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\Notas\Notas\obj\Debug\netcoreapp3.1\Notas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\Notas\Notas\obj\Debug\netcoreapp3.1\Notas.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Notas\Notas\obj\Debug\netcoreapp3.1\Notas.AssemblyInfo.cs
+C:\Users\USER\source\repos\Notas\Notas\obj\Debug\netcoreapp3.1\Notas.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Notas\Notas\obj\Debug\netcoreapp3.1\Notas.dll
+C:\Users\USER\source\repos\Notas\Notas\obj\Debug\netcoreapp3.1\Notas.pdb
+C:\Users\USER\source\repos\Notas\Notas\obj\Debug\netcoreapp3.1\Notas.genruntimeconfig.cache
