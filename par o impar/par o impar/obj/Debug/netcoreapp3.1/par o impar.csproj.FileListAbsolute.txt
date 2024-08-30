@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\par o impar\par o impar\bin\Debug\netcoreapp3.1\par o impar.exe
+C:\Users\USER\source\repos\par o impar\par o impar\bin\Debug\netcoreapp3.1\par o impar.deps.json
+C:\Users\USER\source\repos\par o impar\par o impar\bin\Debug\netcoreapp3.1\par o impar.runtimeconfig.json
+C:\Users\USER\source\repos\par o impar\par o impar\bin\Debug\netcoreapp3.1\par o impar.runtimeconfig.dev.json
+C:\Users\USER\source\repos\par o impar\par o impar\bin\Debug\netcoreapp3.1\par o impar.dll
+C:\Users\USER\source\repos\par o impar\par o impar\bin\Debug\netcoreapp3.1\par o impar.pdb
+C:\Users\USER\source\repos\par o impar\par o impar\obj\Debug\netcoreapp3.1\par o impar.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\par o impar\par o impar\obj\Debug\netcoreapp3.1\par o impar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\par o impar\par o impar\obj\Debug\netcoreapp3.1\par o impar.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\par o impar\par o impar\obj\Debug\netcoreapp3.1\par o impar.AssemblyInfo.cs
+C:\Users\USER\source\repos\par o impar\par o impar\obj\Debug\netcoreapp3.1\par o impar.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\par o impar\par o impar\obj\Debug\netcoreapp3.1\par o impar.dll
+C:\Users\USER\source\repos\par o impar\par o impar\obj\Debug\netcoreapp3.1\par o impar.pdb
+C:\Users\USER\source\repos\par o impar\par o impar\obj\Debug\netcoreapp3.1\par o impar.genruntimeconfig.cache
