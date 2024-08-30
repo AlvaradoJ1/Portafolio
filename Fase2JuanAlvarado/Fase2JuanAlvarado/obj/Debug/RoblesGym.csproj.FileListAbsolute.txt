@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\RoblesGym\RoblesGym\bin\Debug\RoblesGym.exe.config
+C:\Users\PC\source\repos\RoblesGym\RoblesGym\bin\Debug\RoblesGym.exe
+C:\Users\PC\source\repos\RoblesGym\RoblesGym\bin\Debug\RoblesGym.pdb
+C:\Users\PC\source\repos\RoblesGym\RoblesGym\obj\Debug\RoblesGym.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\RoblesGym\RoblesGym\obj\Debug\RoblesGym.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\RoblesGym\RoblesGym\obj\Debug\RoblesGym.Form1.resources
+C:\Users\PC\source\repos\RoblesGym\RoblesGym\obj\Debug\RoblesGym.Properties.Resources.resources
+C:\Users\PC\source\repos\RoblesGym\RoblesGym\obj\Debug\RoblesGym.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\RoblesGym\RoblesGym\obj\Debug\RoblesGym.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\RoblesGym\RoblesGym\obj\Debug\RoblesGym.exe
+C:\Users\PC\source\repos\RoblesGym\RoblesGym\obj\Debug\RoblesGym.pdb
+C:\Users\PC\source\repos\RoblesGym\RoblesGym\obj\Debug\RoblesGym.Form2.resources
+C:\Users\PC\source\repos\RoblesGym\RoblesGym\obj\Debug\RoblesGym.Form3.resources
