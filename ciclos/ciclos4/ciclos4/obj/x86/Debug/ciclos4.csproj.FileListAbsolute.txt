@@ -1,0 +1,14 @@
+C:\Users\dougg\AppData\Local\Temporary Projects\ciclos4\bin\Debug\ciclos4.exe
+C:\Users\dougg\AppData\Local\Temporary Projects\ciclos4\bin\Debug\ciclos4.pdb
+C:\Users\dougg\AppData\Local\Temporary Projects\ciclos4\obj\x86\Debug\ciclos4.exe
+C:\Users\dougg\AppData\Local\Temporary Projects\ciclos4\obj\x86\Debug\ciclos4.pdb
+C:\zDocTrab\10 Mis Clases\UNAD\ztrabajoEnCasa\2021-02\ciclos4\ciclos4\obj\x86\Debug\ciclos4.exe
+C:\zDocTrab\10 Mis Clases\UNAD\ztrabajoEnCasa\2021-02\ciclos4\ciclos4\obj\x86\Debug\ciclos4.pdb
+C:\Users\PC\Downloads\ciclos\ciclos4\ciclos4\bin\Debug\ciclos4.exe.config
+C:\Users\PC\Downloads\ciclos\ciclos4\ciclos4\bin\Debug\ciclos4.exe
+C:\Users\PC\Downloads\ciclos\ciclos4\ciclos4\bin\Debug\ciclos4.pdb
+C:\Users\PC\Downloads\ciclos\ciclos4\ciclos4\obj\x86\Debug\ciclos4.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\ciclos\ciclos4\ciclos4\obj\x86\Debug\ciclos4.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Downloads\ciclos\ciclos4\ciclos4\obj\x86\Debug\ciclos4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\ciclos\ciclos4\ciclos4\obj\x86\Debug\ciclos4.exe
+C:\Users\PC\Downloads\ciclos\ciclos4\ciclos4\obj\x86\Debug\ciclos4.pdb

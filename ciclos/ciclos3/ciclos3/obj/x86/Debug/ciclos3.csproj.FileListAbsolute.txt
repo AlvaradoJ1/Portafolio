@@ -1,0 +1,12 @@
+C:\zDocTrab\10 Mis Clases\UNAD\ztrabajoEnCasa\2021-02\ciclos3\ciclos3\bin\Debug\ciclos3.exe
+C:\zDocTrab\10 Mis Clases\UNAD\ztrabajoEnCasa\2021-02\ciclos3\ciclos3\bin\Debug\ciclos3.pdb
+C:\zDocTrab\10 Mis Clases\UNAD\ztrabajoEnCasa\2021-02\ciclos3\ciclos3\obj\x86\Debug\ciclos3.exe
+C:\zDocTrab\10 Mis Clases\UNAD\ztrabajoEnCasa\2021-02\ciclos3\ciclos3\obj\x86\Debug\ciclos3.pdb
+C:\Users\PC\Downloads\ciclos\ciclos3\ciclos3\bin\Debug\ciclos3.exe.config
+C:\Users\PC\Downloads\ciclos\ciclos3\ciclos3\bin\Debug\ciclos3.exe
+C:\Users\PC\Downloads\ciclos\ciclos3\ciclos3\bin\Debug\ciclos3.pdb
+C:\Users\PC\Downloads\ciclos\ciclos3\ciclos3\obj\x86\Debug\ciclos3.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\ciclos\ciclos3\ciclos3\obj\x86\Debug\ciclos3.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Downloads\ciclos\ciclos3\ciclos3\obj\x86\Debug\ciclos3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\ciclos\ciclos3\ciclos3\obj\x86\Debug\ciclos3.exe
+C:\Users\PC\Downloads\ciclos\ciclos3\ciclos3\obj\x86\Debug\ciclos3.pdb
