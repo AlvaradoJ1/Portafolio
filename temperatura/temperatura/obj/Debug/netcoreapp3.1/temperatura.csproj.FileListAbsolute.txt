@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\temperatura\temperatura\bin\Debug\netcoreapp3.1\temperatura.exe
+C:\Users\USER\source\repos\temperatura\temperatura\bin\Debug\netcoreapp3.1\temperatura.deps.json
+C:\Users\USER\source\repos\temperatura\temperatura\bin\Debug\netcoreapp3.1\temperatura.runtimeconfig.json
+C:\Users\USER\source\repos\temperatura\temperatura\bin\Debug\netcoreapp3.1\temperatura.runtimeconfig.dev.json
+C:\Users\USER\source\repos\temperatura\temperatura\bin\Debug\netcoreapp3.1\temperatura.dll
+C:\Users\USER\source\repos\temperatura\temperatura\bin\Debug\netcoreapp3.1\temperatura.pdb
+C:\Users\USER\source\repos\temperatura\temperatura\obj\Debug\netcoreapp3.1\temperatura.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\temperatura\temperatura\obj\Debug\netcoreapp3.1\temperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\temperatura\temperatura\obj\Debug\netcoreapp3.1\temperatura.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\temperatura\temperatura\obj\Debug\netcoreapp3.1\temperatura.AssemblyInfo.cs
+C:\Users\USER\source\repos\temperatura\temperatura\obj\Debug\netcoreapp3.1\temperatura.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\temperatura\temperatura\obj\Debug\netcoreapp3.1\temperatura.dll
+C:\Users\USER\source\repos\temperatura\temperatura\obj\Debug\netcoreapp3.1\temperatura.pdb
+C:\Users\USER\source\repos\temperatura\temperatura\obj\Debug\netcoreapp3.1\temperatura.genruntimeconfig.cache
