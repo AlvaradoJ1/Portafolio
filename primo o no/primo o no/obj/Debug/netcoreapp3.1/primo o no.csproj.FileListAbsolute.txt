@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\primo o no\primo o no\bin\Debug\netcoreapp3.1\primo o no.exe
+C:\Users\USER\source\repos\primo o no\primo o no\bin\Debug\netcoreapp3.1\primo o no.deps.json
+C:\Users\USER\source\repos\primo o no\primo o no\bin\Debug\netcoreapp3.1\primo o no.runtimeconfig.json
+C:\Users\USER\source\repos\primo o no\primo o no\bin\Debug\netcoreapp3.1\primo o no.runtimeconfig.dev.json
+C:\Users\USER\source\repos\primo o no\primo o no\bin\Debug\netcoreapp3.1\primo o no.dll
+C:\Users\USER\source\repos\primo o no\primo o no\bin\Debug\netcoreapp3.1\primo o no.pdb
+C:\Users\USER\source\repos\primo o no\primo o no\obj\Debug\netcoreapp3.1\primo o no.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\primo o no\primo o no\obj\Debug\netcoreapp3.1\primo o no.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\primo o no\primo o no\obj\Debug\netcoreapp3.1\primo o no.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\primo o no\primo o no\obj\Debug\netcoreapp3.1\primo o no.AssemblyInfo.cs
+C:\Users\USER\source\repos\primo o no\primo o no\obj\Debug\netcoreapp3.1\primo o no.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\primo o no\primo o no\obj\Debug\netcoreapp3.1\primo o no.dll
+C:\Users\USER\source\repos\primo o no\primo o no\obj\Debug\netcoreapp3.1\primo o no.pdb
+C:\Users\USER\source\repos\primo o no\primo o no\obj\Debug\netcoreapp3.1\primo o no.genruntimeconfig.cache
