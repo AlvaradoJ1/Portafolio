@@ -1,0 +1,27 @@
+C:\Users\USUSARIO\source\repos\Geometria\Geometria\bin\Debug\netcoreapp3.1\Geometria.exe
+C:\Users\USUSARIO\source\repos\Geometria\Geometria\bin\Debug\netcoreapp3.1\Geometria.deps.json
+C:\Users\USUSARIO\source\repos\Geometria\Geometria\bin\Debug\netcoreapp3.1\Geometria.runtimeconfig.json
+C:\Users\USUSARIO\source\repos\Geometria\Geometria\bin\Debug\netcoreapp3.1\Geometria.runtimeconfig.dev.json
+C:\Users\USUSARIO\source\repos\Geometria\Geometria\bin\Debug\netcoreapp3.1\Geometria.dll
+C:\Users\USUSARIO\source\repos\Geometria\Geometria\bin\Debug\netcoreapp3.1\Geometria.pdb
+C:\Users\USUSARIO\source\repos\Geometria\Geometria\obj\Debug\netcoreapp3.1\Geometria.csproj.AssemblyReference.cache
+C:\Users\USUSARIO\source\repos\Geometria\Geometria\obj\Debug\netcoreapp3.1\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUSARIO\source\repos\Geometria\Geometria\obj\Debug\netcoreapp3.1\Geometria.AssemblyInfoInputs.cache
+C:\Users\USUSARIO\source\repos\Geometria\Geometria\obj\Debug\netcoreapp3.1\Geometria.AssemblyInfo.cs
+C:\Users\USUSARIO\source\repos\Geometria\Geometria\obj\Debug\netcoreapp3.1\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\USUSARIO\source\repos\Geometria\Geometria\obj\Debug\netcoreapp3.1\Geometria.dll
+C:\Users\USUSARIO\source\repos\Geometria\Geometria\obj\Debug\netcoreapp3.1\Geometria.pdb
+C:\Users\USUSARIO\source\repos\Geometria\Geometria\obj\Debug\netcoreapp3.1\Geometria.genruntimeconfig.cache
+C:\Users\PC\Downloads\Paso 3\Geometria\Geometria\bin\Debug\netcoreapp3.1\Geometria.exe
+C:\Users\PC\Downloads\Paso 3\Geometria\Geometria\bin\Debug\netcoreapp3.1\Geometria.deps.json
+C:\Users\PC\Downloads\Paso 3\Geometria\Geometria\bin\Debug\netcoreapp3.1\Geometria.runtimeconfig.json
+C:\Users\PC\Downloads\Paso 3\Geometria\Geometria\bin\Debug\netcoreapp3.1\Geometria.runtimeconfig.dev.json
+C:\Users\PC\Downloads\Paso 3\Geometria\Geometria\bin\Debug\netcoreapp3.1\Geometria.dll
+C:\Users\PC\Downloads\Paso 3\Geometria\Geometria\bin\Debug\netcoreapp3.1\Geometria.pdb
+C:\Users\PC\Downloads\Paso 3\Geometria\Geometria\obj\Debug\netcoreapp3.1\Geometria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\Paso 3\Geometria\Geometria\obj\Debug\netcoreapp3.1\Geometria.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\Paso 3\Geometria\Geometria\obj\Debug\netcoreapp3.1\Geometria.AssemblyInfo.cs
+C:\Users\PC\Downloads\Paso 3\Geometria\Geometria\obj\Debug\netcoreapp3.1\Geometria.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\Paso 3\Geometria\Geometria\obj\Debug\netcoreapp3.1\Geometria.dll
+C:\Users\PC\Downloads\Paso 3\Geometria\Geometria\obj\Debug\netcoreapp3.1\Geometria.pdb
+C:\Users\PC\Downloads\Paso 3\Geometria\Geometria\obj\Debug\netcoreapp3.1\Geometria.genruntimeconfig.cache
